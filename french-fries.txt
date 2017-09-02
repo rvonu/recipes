@@ -1,0 +1,10 @@
+Ingredients:
+ - some potatoes
+ - salt, pepper
+ - oil
+
+Directions:
+ 1. Clean your potatoes.
+ 2. Slice your potatoes.
+ 3. Dry your potatoes.
+ 4. Fry your potatoes.
